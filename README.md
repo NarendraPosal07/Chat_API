@@ -6,25 +6,17 @@ It enables instant messaging between users through WebSocket connections.
 🚀 Features
 
 Real-time messaging with Socket.IO
-
 Simple and clean chat UI
-
 Bi-directional communication
-
 Lightweight and fast
-
 Easy to integrate with other projects
 
 🛠️ Tech Stack
 
 Node.js
-
 Socket.IO
-
 HTML
-
 CSS
-
 JavaScript
 
 📁 Project Structure
@@ -35,14 +27,12 @@ JavaScript
 /server.js
 /package.json
 ⚙️ Installation & Setup
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 npm install
 npm start
 
 Open your browser and visit:
 
-http://localhost:3000
+http://localhost:5000
 🔌 How It Works
 
 The server uses Socket.IO to handle real-time connections
